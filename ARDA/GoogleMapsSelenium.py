@@ -15,7 +15,7 @@ from tkinter import *
 def basla():
     gidilecek = entry_1.get()
     baslangic = entry_2.get()
-    tarayici = webdriver.Firefox(executable_path=r"Driver\geckodriver.exe")
+    tarayici = webdriver.Firefox(executable_path=r"ARDA\PROJE\Driver\geckodriver.exe")
     tarayici.get("https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr")
 
    
