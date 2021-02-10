@@ -46,3 +46,97 @@ TimedPromise/<@chrome://marionette/content/sync.js:235:19
 TimedPromise@chrome://marionette/content/sync.js:220:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612950014278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ardag\\AppData\\Local\\Temp\\rust_mozprofileNPHopF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612950016027	Marionette	INFO	Listening on port 55681
+1612950016327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612950016334	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1612950071776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ardag\\AppData\\Local\\Temp\\rust_mozprofilelLVsGO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612950073403	Marionette	INFO	Listening on port 56173
+1612950073817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612950073825	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1612950095681	Marionette	INFO	Stopped listening on port 56173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612950122812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ardag\\AppData\\Local\\Temp\\rust_mozprofile4wwkzx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612950124336	Marionette	INFO	Listening on port 56682
+1612950124836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612950124843	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1556 > injectedScript, line 8083: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1612950135508	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612950139266	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612950170643	Marionette	INFO	Stopped listening on port 56682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612950185839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ardag\\AppData\\Local\\Temp\\rust_mozprofile7A0UES"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612950187406	Marionette	INFO	Listening on port 57242
+1612950187883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612950187890	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.ng/maps/@38.95682,35.174414,6z?hl=tr line 1558 > injectedScript, line 8065: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
